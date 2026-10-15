@@ -981,8 +981,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   cameraTransform: {fileID: 858769246}
-  faceMoveDirection: 0
+  faceMoveDirection: 1
   moveSpeed: 5
+  runSpeed: 9
   jumpForce: 5
 --- !u!114 &190507584
 MonoBehaviour:
